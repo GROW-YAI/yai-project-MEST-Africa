@@ -28,7 +28,7 @@
 /*------------------- 1.5. Typography -------------------*/
 html,
 body {
-  scroll-behavior: auto !important;
+  scroll-behavior: smooth;
 }
 
 body {
