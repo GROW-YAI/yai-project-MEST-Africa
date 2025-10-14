@@ -3134,7 +3134,8 @@ a.text-theme:hover,
 }
 
 .copyright-text {
-  margin: 0;
+margin-left: 550px ;
+margin-top: -30px;
   font-size: 16px;
   font-weight: 500;
   color: var(--white-color);
@@ -3180,8 +3181,11 @@ a.text-theme:hover,
 
 .footer-layout2 {
   clip-path: polygon(0 0, 100% 12%, 100% 100%, 0 100%);
-  padding-top: 140px;
-  padding-bottom: 50px;
+  height: 455px;
+  background-color: #0c7735;
+  margin-bottom: 0;
+  /* padding-top: 10px; */
+  /* padding-bottom: 10px; */
 
 }
 
